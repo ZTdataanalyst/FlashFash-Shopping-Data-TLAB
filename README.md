@@ -4,12 +4,12 @@
 
 What are 6 analytical questions you can ask about this dataset?
 
-1. Which clothing items are purchased most frequently on a monthly, quarterly, and annual basis?
+1.  Which clothing items are purchased most frequently by gender?
 2. Does the season in which an item is purchased relate to the number of previous purchases a customer has made?
 3. Does the seasonality of an item influence the purchase amount customers spend?
-4. Which states generate the highest sales volume, and how can FlashFash identify untapped or underrepresented state markets?
+4. Which states generate the highest sales volume?
 5. Do certain item sizes (S, M, L, XL) correlate with higher or lower customer loyalty, as measured by previous purchases?
-6. How do purchasing frequency and purchase amount relate to whether customers leave a review and to the rating they give?
+6. How does purchasing frequency relate to whether customers leave a review and to the rating they give?
 7. What are the most popular colors by season?
 8. What is the most popular clothing item by season?
 9. What is the effect of promo codes on the dollar amount of purchases?
